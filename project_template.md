@@ -14,13 +14,3 @@
 4. How would a business or a community (for Social Impact Projects) benefit from your work?
 > Be specific. Think money saved, process improves, better decisions made
 > That’s your **real value**
-
-This project gives a real answer to a debate they usually settle on opinion alone. The answer is that older films do have higher average ratings, but the gap has stopped growing, and part of it is probably becuase only the best old movies are still being rated today.
-
-It is useful in a few ways:
-
-Viewers get a reason to try highly rated older films, and can see that newer movies aren't getting worse.
-
-Streaming platforms deciding which older titles to licsense or promote can see that classic films tend to earn strong ratings.
-
-Anyone using ratings data learns to check how many movies sit behind an average before trusting it. That caution applies well beyond movies.
