@@ -151,7 +151,11 @@ else:
             {"_id": record["forest_reserve_id"]}
         )
 
-        st.write(f"**Forest reserve:** {reserve['name']}")
+        if reserve is None:
+            st.write("**Forest reserve:** Unknown or no longer registered")
+        else:
+            st.write(f"**Forest reserve:** {reserve['name']}")
+
         st.write(f"Date: {record['date'].strftime('%Y-%m-%d')}")
         st.write(f"Trees planted: {record['trees_planted']}")
         st.divider()
